@@ -1,0 +1,222 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 79,
+    "sha256": "3c1fa9dd322dc4f45b12b2978784e1c12a0510bec042985595a2c816f48a7f28"
+  },
+  {
+    "path": "NOTICE.md",
+    "bytes": 1026,
+    "sha256": "7e845e6a4ef5005bf34f89742ec26c29e91aee9bc02be410600a582790fd2b60"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1944,
+    "sha256": "eb27b023363733ea0b0956c78aa9126c34a1ff17499da73681ea25635217bd43"
+  },
+  {
+    "path": "dist/app.js",
+    "bytes": 16278,
+    "sha256": "42de01ffc8f32c12d9a02f6c0926104fc82fd340ddb0bf09b495617ba1561097"
+  },
+  {
+    "path": "dist/assets/elia.webp",
+    "bytes": 95916,
+    "sha256": "90f5e0c969b71e9cdd8180abff36f2d8a77ea626cccbbadddde7cd89bcdc20f2"
+  },
+  {
+    "path": "dist/assets/emilia.webp",
+    "bytes": 114638,
+    "sha256": "8f321862f429ac4fec4208030dbd17a38e8919e2012f68a4ad885b647e320cd4"
+  },
+  {
+    "path": "dist/assets/julia.webp",
+    "bytes": 66050,
+    "sha256": "6c5dc19d768e7c89279851df71513d11709a0f0cc948a477f77609d2dcb31b7e"
+  },
+  {
+    "path": "dist/assets/martin.webp",
+    "bytes": 126024,
+    "sha256": "06e760322aab190eac55e66e8e71af14de0d8e496f0a24457a8705ea429a1428"
+  },
+  {
+    "path": "dist/assets/partner-logos.png",
+    "bytes": 198911,
+    "sha256": "021770c9ec00c3b88cd5b085f037b9b2bfbf83753dc53cd6c9f4aadb8249104b"
+  },
+  {
+    "path": "dist/index.html",
+    "bytes": 19223,
+    "sha256": "9af525be861329110026399685ab82500586c703062a4ff4d24e7dcb7d276bd1"
+  },
+  {
+    "path": "dist/style.css",
+    "bytes": 26273,
+    "sha256": "f9e91ee0b1f5cf612f67477d276004532f769ff80eda96203cdd0c12f80b0cca"
+  },
+  {
+    "path": "docs/ARCHIVO-INFORME-2026-10-28.md",
+    "bytes": 21762,
+    "sha256": "a9c7deb11bc37168cd4e2983e1c1a94df4cccb64e54ac595cb828bd1e01ba3d0"
+  },
+  {
+    "path": "docs/CODIGO-COMPLETO.md",
+    "bytes": 61969,
+    "sha256": "679487ef4f6fba91a225e824c64441e085013dc85d42597b66e816d50a5c3692"
+  },
+  {
+    "path": "docs/HISTORIAL-COMMITS.txt",
+    "bytes": 2601,
+    "sha256": "bccb3d90915adfe35354a8d8b96dd2c3de5b9992cde21ea474f4fb97b91ba7bb"
+  },
+  {
+    "path": "docs/INFORME-TECNICO.md",
+    "bytes": 25865,
+    "sha256": "e5eab2cc35b98f970905cd29b25929bd6c6ca5468cc267d51b776bfdc492c69c"
+  },
+  {
+    "path": "docs/SNAPSHOT.json",
+    "bytes": 349,
+    "sha256": "1e3866343c656d44f4c7ae520d6d45da5cbd572a6238b2fdbe14f104aa01111f"
+  },
+  {
+    "path": "docs/VALIDACION.md",
+    "bytes": 3249,
+    "sha256": "ebcbc984896b9acff0c2ec978d989ebf9631a0e418f46b0c8788476ab18077ac"
+  },
+  {
+    "path": "docs/wiki/Animaciones.md",
+    "bytes": 3441,
+    "sha256": "cd0341725d1b7d1e6cfde08ef2b2d362385733dfd6cc795e5801c45176586d5c"
+  },
+  {
+    "path": "docs/wiki/Arquitectura.md",
+    "bytes": 2135,
+    "sha256": "dea6f742a3995ad0f587af52be876293660b5c839a607ae9f01a5a88e4d9e632"
+  },
+  {
+    "path": "docs/wiki/Contenido-y-diseno.md",
+    "bytes": 4501,
+    "sha256": "d169435f36247b243673303f6296cdbd3ae2e70df89b51d69407fc22fadeaed6"
+  },
+  {
+    "path": "docs/wiki/Equipo-y-movil.md",
+    "bytes": 2886,
+    "sha256": "0bef5702f3b33c7af9f0515f54443de275fa4dd50741de4a0ba029f22bf6da4e"
+  },
+  {
+    "path": "docs/wiki/Historial.md",
+    "bytes": 4636,
+    "sha256": "0436d66fac60be4223e898b9e49c9f108b0a6b187ac609f4d5bef2ceed09d2c7"
+  },
+  {
+    "path": "docs/wiki/Home.md",
+    "bytes": 2475,
+    "sha256": "6360ba754bea68c4c5bdbe29004c063e134dca79a4140b70ac00a22142252b4b"
+  },
+  {
+    "path": "docs/wiki/Mantenimiento.md",
+    "bytes": 3121,
+    "sha256": "9635f6c12697de5a33f0ecd58e9b5d58f41dbd6bcfa5f0c96f02251dfc2f12d8"
+  },
+  {
+    "path": "docs/wiki/Seguridad.md",
+    "bytes": 2489,
+    "sha256": "eb0a72c1b761763eaf18cb815bb69e9fda73979e34a152d0ce799524567e3a79"
+  },
+  {
+    "path": "reference/DESIGN-original.md",
+    "bytes": 19756,
+    "sha256": "108d1fc9cb388c76a9993062f93ab888ee50572eb8503129d1ca69dc8d6b5b08"
+  },
+  {
+    "path": "reference/fonts/Inter-200.ttf",
+    "bytes": 325604,
+    "sha256": "1be2b11bc5c1e0f78deeeb4e8049b2f5cca9c476b77bb1912aac748ba4a37312"
+  },
+  {
+    "path": "reference/fonts/Inter-400.ttf",
+    "bytes": 324820,
+    "sha256": "1b08e7fc267a5c7e1d614100f604b83e7e8a0be241f0f288faa2b3ac93a683ba"
+  },
+  {
+    "path": "reference/fonts/Inter-500.ttf",
+    "bytes": 325304,
+    "sha256": "8c883f63b2c4157d997319f2c8bc6995ed4357ef371940d31ca159004a4aae63"
+  },
+  {
+    "path": "reference/fonts/Inter-600.ttf",
+    "bytes": 326048,
+    "sha256": "e7a1aaf7eda9f2fad4131725fa556265ec75ca7b2d756260173a040363e8d4f7"
+  },
+  {
+    "path": "reference/fonts/OFL.txt",
+    "bytes": 4377,
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  },
+  {
+    "path": "reference/fonts/README.md",
+    "bytes": 629,
+    "sha256": "248d31f0767e6633241ac41c00215c0a734b662cdb3a7f34712b7cfc18311606"
+  },
+  {
+    "path": "reference/fonts/google-fonts-original.css",
+    "bytes": 916,
+    "sha256": "b3a69acda90fcdebe55e6fa33a88b8f9f662dcbf0b68d671b7a1107d025891a3"
+  },
+  {
+    "path": "reference/original-assets/01-floreria-original.png",
+    "bytes": 323782,
+    "sha256": "d11e46233a327ef9d774fe0432b71e7c9df5393d7dc33098c5d67ecca41e59aa"
+  },
+  {
+    "path": "reference/original-assets/02-hammurabi-digital-original.png",
+    "bytes": 12361,
+    "sha256": "1339ee26a99a478c88d5dd28202148e9d9cce7e34cee1c093a583d911acf4bdb"
+  },
+  {
+    "path": "reference/original-assets/03-monograma-original.png",
+    "bytes": 11043,
+    "sha256": "652e534027f34ffbc12852c873e03a99d71d96f635408539cec6b03d64642f70"
+  },
+  {
+    "path": "reference/original-assets/04-seminarios-original.png",
+    "bytes": 16391,
+    "sha256": "d62aeb477277ab1f4415351c943b45421c3da5875e4ab80bc90e1258e8cc8386"
+  },
+  {
+    "path": "reference/original-assets/05-editorial-original.png",
+    "bytes": 14538,
+    "sha256": "f9480eead1f029d1425e4d5d30f182648bcc13f1f14d8927f3b2ab0c11949cc4"
+  },
+  {
+    "path": "reference/original-assets/elia-original.png",
+    "bytes": 2827039,
+    "sha256": "f205ad1a1074493e60d0b631ca4c3982d0021129274f19db244781c673372883"
+  },
+  {
+    "path": "reference/original-assets/emilia-original.png",
+    "bytes": 2884520,
+    "sha256": "187ae22ff62c36bad66ef323cddb6a7d5097fe6aa14a67a185e9bce5b48a3744"
+  },
+  {
+    "path": "reference/original-assets/julia-original.png",
+    "bytes": 2528539,
+    "sha256": "affd2efaa4d3c558dce9202d95a53424e906059511fff58221b47f8bd0628c1b"
+  },
+  {
+    "path": "reference/original-assets/martin-original.png",
+    "bytes": 2976873,
+    "sha256": "32f5685c29e7707d9147bdb7fd7b5f0f904dd22aa1b3406443c1e7f3b9119e46"
+  },
+  {
+    "path": "reference/pages-workflow-example.yml",
+    "bytes": 556,
+    "sha256": "be64b1478225a8560c3f18e376e368006ebfe29f237bf97cb4bd65890a1f9481"
+  },
+  {
+    "path": "reference/sites/hosting.json",
+    "bytes": 106,
+    "sha256": "4ba8a7ebba2efa68a5a9a9e6b5e3a96dcb135e7eed83aed80911f0e807aac9c7"
+  }
+]
