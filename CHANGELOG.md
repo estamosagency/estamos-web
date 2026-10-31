@@ -2,6 +2,8 @@
 
 ## 2026-10-31
 
+- Se añadieron eventos de clic individuales para MIRADA, SERVICIOS, MÉTODO y EQUIPO, tanto en la navegación de escritorio como en el menú móvil.
+
 - Se añadió Google Analytics 4 (G-G0SWRG5MRZ) para medir visitas de la web pública y click_conversemos.
 - Se excluyeron del arranque las vistas previas y la copia de Sites.
 - Se desactivaron Google signals y personalización publicitaria en la configuración de la etiqueta.
