@@ -17,12 +17,22 @@
   tag.src = 'https://www.googletagmanager.com/gtag/js?id=' + measurementId;
   document.head.appendChild(tag);
   document.addEventListener('click', (event) => {
-    const link = event.target.closest && event.target.closest('a.header-cta');
+    const link = event.target.closest && event.target.closest('a.header-cta, nav a');
     if (!link) return;
-    window.gtag('event', 'click_conversemos', {
+    const navigationEvents = {
+      '#mirada': 'click_mirada',
+      '#servicios': 'click_servicios',
+      '#metodo': 'click_metodo',
+      '#equipo': 'click_equipo'
+    };
+    const eventName = link.matches('a.header-cta')
+      ? 'click_conversemos'
+      : navigationEvents[link.getAttribute('href')];
+    if (!eventName) return;
+    window.gtag('event', eventName, {
       send_to: measurementId,
       link_url: link.href,
-      link_text: 'CONVERSEMOS',
+      link_text: link.textContent.trim(),
       transport_type: 'beacon'
     });
   });
